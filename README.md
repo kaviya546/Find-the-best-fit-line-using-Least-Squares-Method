@@ -51,12 +51,9 @@ RegisterNumber:  212223040091
 
 ## Output:
 
-21.375
-34.0
-1.4024598679580416
-4.0224203223968615
-[ 6.82734006 11.03471966 13.8396394  16.64455913 19.44947887 37.68145715
- 95.18231174 71.34049398]
+![image](https://github.com/kaviya546/Find-the-best-fit-line-using-Least-Squares-Method/assets/150368823/865eb17c-4f96-4f1d-b115-cda371b5a168)
+
+
 
  ![image](https://github.com/kaviya546/Find-the-best-fit-line-using-Least-Squares-Method/assets/150368823/8b1ee842-9700-4e4a-959f-a20d2058378b)
 
