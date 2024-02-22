@@ -50,7 +50,7 @@ RegisterNumber:  212223040091
 ```
 
 ## Output:
-![best fit line](sam.png)
+
 21.375
 34.0
 1.4024598679580416
