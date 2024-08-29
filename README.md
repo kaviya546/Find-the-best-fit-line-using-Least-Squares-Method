@@ -50,12 +50,13 @@ RegisterNumber:  212223040091
 ```
 
 ## Output:
+![WhatsApp Image 2024-08-22 at 09 10 19_117e022a](https://github.com/user-attachments/assets/dab4660d-e981-4033-8788-607f8bf1ed39)
+![WhatsApp Image 2024-08-22 at 09 10 36_824dc604](https://github.com/user-attachments/assets/d9628204-4cb8-43ee-b698-5ef79bd4b2f5)
 
-![image](https://github.com/kaviya546/Find-the-best-fit-line-using-Least-Squares-Method/assets/150368823/865eb17c-4f96-4f1d-b115-cda371b5a168)
 
 
 
- ![image](https://github.com/kaviya546/Find-the-best-fit-line-using-Least-Squares-Method/assets/150368823/8b1ee842-9700-4e4a-959f-a20d2058378b)
+ ![WhatsApp Image 2024-08-22 at 09 09 48_f2aaf4f1](https://github.com/user-attachments/assets/35ef5767-9426-447c-96a9-40822b6249ca)
 
 
 
